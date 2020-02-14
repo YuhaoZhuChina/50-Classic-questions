@@ -10,7 +10,7 @@ import java.util.Queue;
 
 /**
  *
- * @author apple
+ * @author Yuhao
  */
 public class StackFromQueues {
     private Queue<Integer> queue;
